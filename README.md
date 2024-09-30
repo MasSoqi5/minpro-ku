@@ -1,4 +1,4 @@
-# minpro-ku
+# minproku
 masuk = 'y'
 while masuk == 'y':
     namabenar = "Syauqi Etna"
