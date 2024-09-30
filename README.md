@@ -1,3 +1,4 @@
+![flowchart minpro](https://github.com/user-attachments/assets/91018ebe-204a-437e-998f-7f80a856b0cf)
 # minproku
 masuk = 'y'
 while masuk == 'y':
@@ -11,6 +12,8 @@ while masuk == 'y':
     if nama != namabenar or nim != nimbenar:
         print("Nama atau NIM salah, coba lagi.")
         masuk = input("Apakah Anda ingin mencoba lagi? (y/n): ").lower()
+        if masuk =='n' :
+            quit()
     else:
         print(f"Selamat datang, {nama}!")
         masuk = 'n'  # Menghentikan loop jika login berhasil
@@ -35,4 +38,5 @@ while ulang == 'y':
 
     # Menanyakan apakah ingin menghitung ulang
     ulang = input("Ingin menghitung ulang? (y/t): ").lower()
+
 
