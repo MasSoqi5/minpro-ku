@@ -7,6 +7,7 @@
 - JIka nama dan nim benar dilanjutkan ke perhitungan
 - Jika salah ada pertanyaan mau dilanjutkan atau tidak==> jika n keluar aplikasi
 - ==> jika y muncul pertanyaan nama dan nim.
+- 
 #Langkah 2 PERHITUNGAN
 - muncul pertanyaan jumlah dan harga barang
 - JIka perkaian jumlah dan harga barang > 250000 dilakuikan diskon, jika tidak, harga tetap
