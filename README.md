@@ -1,6 +1,8 @@
 ![flowchart minpro](https://github.com/user-attachments/assets/91018ebe-204a-437e-998f-7f80a856b0cf)
 # Terminal
 ![Screenshot 2024-09-30 223738](https://github.com/user-attachments/assets/ce2af43d-dc52-4b43-bc8c-f954c86f8a91)
+# Penjelasan
+Langkah 1
 
 # minproku
 masuk = 'y'
